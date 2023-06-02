@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.321425c3.css",
-    "main.js": "/static/js/main.341d4279.js",
+    "main.css": "/static/css/main.aa8099ee.css",
+    "main.js": "/static/js/main.202b9882.js",
     "static/media/ffleisach.png": "/static/media/ffleisach.96d0708d10ced3c588b1.png",
     "static/media/feuerwehr_symbolbild.jpg": "/static/media/feuerwehr_symbolbild.db927f4cf20780eea1cc.jpg",
     "static/media/brand-amlach-mai-2023-c-brunner-images.jpg": "/static/media/brand-amlach-mai-2023-c-brunner-images.22cd6b466e3b4851ecf8.jpg",
     "static/media/landing.jpg": "/static/media/landing.cb0f860d6f331e17a430.jpg",
     "static/media/logo_land_tirol.png": "/static/media/logo_land_tirol.69460f54ed366d6e69a0.png",
+    "static/media/Bewerbsgruppe32023.png": "/static/media/Bewerbsgruppe32023.87b62aa7bcc63fd8d154.png",
     "static/media/logo_tiwag.jpg": "/static/media/logo_tiwag.e1964492b1d32fc0f659.jpg",
+    "static/media/Bewerbsgruppen2022.png": "/static/media/Bewerbsgruppen2022.783d3d7ba09f82fbc953.png",
     "static/media/bfv_lz.png": "/static/media/bfv_lz.84549ef5ba02d77bd223.png",
     "static/media/BMA_Bild.jpg": "/static/media/BMA_Bild.c4459a31597d5ef53aaa.jpg",
     "static/media/feuerwehr_schlauch.jpg": "/static/media/feuerwehr_schlauch.55c46f4bf9ee0096403a.jpg",
@@ -15,11 +17,11 @@
     "static/media/leisach_wappen.png": "/static/media/leisach_wappen.489cacd0a9fd4afd27d7.png",
     "index.html": "/index.html",
     "static/media/close.svg": "/static/media/close.c76ad28c33323dfe86ec1e4bcf9c5b6c.svg",
-    "main.321425c3.css.map": "/static/css/main.321425c3.css.map",
-    "main.341d4279.js.map": "/static/js/main.341d4279.js.map"
+    "main.aa8099ee.css.map": "/static/css/main.aa8099ee.css.map",
+    "main.202b9882.js.map": "/static/js/main.202b9882.js.map"
   },
   "entrypoints": [
-    "static/css/main.321425c3.css",
-    "static/js/main.341d4279.js"
+    "static/css/main.aa8099ee.css",
+    "static/js/main.202b9882.js"
   ]
 }
