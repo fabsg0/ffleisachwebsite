@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.321425c3.css",
-    "main.js": "/static/js/main.7f99559b.js",
+    "main.js": "/static/js/main.341d4279.js",
     "static/media/ffleisach.png": "/static/media/ffleisach.96d0708d10ced3c588b1.png",
     "static/media/feuerwehr_symbolbild.jpg": "/static/media/feuerwehr_symbolbild.db927f4cf20780eea1cc.jpg",
+    "static/media/brand-amlach-mai-2023-c-brunner-images.jpg": "/static/media/brand-amlach-mai-2023-c-brunner-images.22cd6b466e3b4851ecf8.jpg",
     "static/media/landing.jpg": "/static/media/landing.cb0f860d6f331e17a430.jpg",
     "static/media/logo_land_tirol.png": "/static/media/logo_land_tirol.69460f54ed366d6e69a0.png",
     "static/media/logo_tiwag.jpg": "/static/media/logo_tiwag.e1964492b1d32fc0f659.jpg",
@@ -15,10 +16,10 @@
     "index.html": "/index.html",
     "static/media/close.svg": "/static/media/close.c76ad28c33323dfe86ec1e4bcf9c5b6c.svg",
     "main.321425c3.css.map": "/static/css/main.321425c3.css.map",
-    "main.7f99559b.js.map": "/static/js/main.7f99559b.js.map"
+    "main.341d4279.js.map": "/static/js/main.341d4279.js.map"
   },
   "entrypoints": [
     "static/css/main.321425c3.css",
-    "static/js/main.7f99559b.js"
+    "static/js/main.341d4279.js"
   ]
 }
