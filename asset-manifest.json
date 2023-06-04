@@ -1,16 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.a1e099e1.css",
-    "main.js": "/static/js/main.c99191c9.js",
+    "main.js": "/static/js/main.58b57453.js",
     "static/media/ffleisach.png": "/static/media/ffleisach.96d0708d10ced3c588b1.png",
     "static/media/feuerwehr_symbolbild.jpg": "/static/media/feuerwehr_symbolbild.db927f4cf20780eea1cc.jpg",
+    "static/media/brandamlach2023.jpg": "/static/media/brandamlach2023.3d9d44fb3d9c0ffe33ff.jpg",
+    "static/media/brand-amlach-mai-2023-c-brunner-images.jpg": "/static/media/brand-amlach-mai-2023-c-brunner-images.22cd6b466e3b4851ecf8.jpg",
     "static/media/logo_land_tirol.png": "/static/media/logo_land_tirol.69460f54ed366d6e69a0.png",
+    "static/media/brandgartenhaus.jpg": "/static/media/brandgartenhaus.f836ceb6c33ab7d1635d.jpg",
     "static/media/Bewerbsgruppe32023.png": "/static/media/Bewerbsgruppe32023.87b62aa7bcc63fd8d154.png",
     "static/media/logo_tiwag.jpg": "/static/media/logo_tiwag.e1964492b1d32fc0f659.jpg",
+    "static/media/brand2017.jpg": "/static/media/brand2017.acc638cd73067aadeaed.jpg",
     "static/media/Bewerbsgruppen2022.png": "/static/media/Bewerbsgruppen2022.783d3d7ba09f82fbc953.png",
+    "static/media/brandherzjesu.jpg": "/static/media/brandherzjesu.1510bdae7a48c05f4f83.jpg",
     "static/media/bfv_lz.png": "/static/media/bfv_lz.84549ef5ba02d77bd223.png",
     "static/media/BMA_Bild.jpg": "/static/media/BMA_Bild.c4459a31597d5ef53aaa.jpg",
+    "static/media/brand2022.jpg": "/static/media/brand2022.ed009f79df488f252527.jpg",
     "static/media/verkehrsunfall.jpg": "/static/media/verkehrsunfall.6de284cb6139f0b0801c.jpg",
+    "static/media/brand2023.jpg": "/static/media/brand2023.879b425fcae2907f8039.jpg",
     "static/media/nothdurfter.jfif": "/static/media/nothdurfter.8aa2a429b88ab7e3eba6.jfif",
     "static/media/feuerwehr_schlauch.jpg": "/static/media/feuerwehr_schlauch.55c46f4bf9ee0096403a.jpg",
     "static/media/gruppe.jpg": "/static/media/gruppe.2e2f7fd069221b7080dc.jpg",
@@ -20,10 +27,10 @@
     "static/media/left_arrow.svg": "/static/media/left_arrow.e72bfdfdad457987926a958bbde34160.svg",
     "static/media/right_arrow.svg": "/static/media/right_arrow.03c37bf491e291176c609d2c5f704ea3.svg",
     "main.a1e099e1.css.map": "/static/css/main.a1e099e1.css.map",
-    "main.c99191c9.js.map": "/static/js/main.c99191c9.js.map"
+    "main.58b57453.js.map": "/static/js/main.58b57453.js.map"
   },
   "entrypoints": [
     "static/css/main.a1e099e1.css",
-    "static/js/main.c99191c9.js"
+    "static/js/main.58b57453.js"
   ]
 }
