@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a1e099e1.css",
-    "main.js": "/static/js/main.58b57453.js",
+    "main.css": "/static/css/main.1c0b2a2b.css",
+    "main.js": "/static/js/main.b358a6a7.js",
     "static/media/ffleisach.png": "/static/media/ffleisach.96d0708d10ced3c588b1.png",
     "static/media/feuerwehr_symbolbild.jpg": "/static/media/feuerwehr_symbolbild.db927f4cf20780eea1cc.jpg",
     "static/media/brandamlach2023.jpg": "/static/media/brandamlach2023.3d9d44fb3d9c0ffe33ff.jpg",
@@ -26,11 +26,11 @@
     "static/media/close.svg": "/static/media/close.c76ad28c33323dfe86ec1e4bcf9c5b6c.svg",
     "static/media/left_arrow.svg": "/static/media/left_arrow.e72bfdfdad457987926a958bbde34160.svg",
     "static/media/right_arrow.svg": "/static/media/right_arrow.03c37bf491e291176c609d2c5f704ea3.svg",
-    "main.a1e099e1.css.map": "/static/css/main.a1e099e1.css.map",
-    "main.58b57453.js.map": "/static/js/main.58b57453.js.map"
+    "main.1c0b2a2b.css.map": "/static/css/main.1c0b2a2b.css.map",
+    "main.b358a6a7.js.map": "/static/js/main.b358a6a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1e099e1.css",
-    "static/js/main.58b57453.js"
+    "static/css/main.1c0b2a2b.css",
+    "static/js/main.b358a6a7.js"
   ]
 }
